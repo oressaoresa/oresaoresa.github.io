@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+	<head><!—-what appears on the tab—->
+		<title>What is Makoto</title>
+		<link href=Makoto.css type=text/css rel=stylesheet />
+	</head>
+
+	<body>
+
+<!—-The Main text of the page—->
+
+	<h1 id=“top”>Welcome to <b>What is Makoto!</b></h1>
+		<p>This is on HTML page that is created by <i>Makoto Yamamoto</i>to 			demonstrate what he had learned from the textbook, <cite>HTML&CSS</cite> 		by Jon Duckett. This page also tries to create a auto-bibliographic 			website where the viewers can understand what Makoto is.</p>
+
+<!—-The end of main text—->	
+
+	<hr />
+
+<!—-The start of the body—->
+
+	<h2><div class=content>The Content of the Page</h2>
+		<p> Click the links to be directed to the specific part of Makoto you 			would like to know! Have fun!</p>
+		
+		<ul>
+		<li><a href=#summary>Summary of Makoto&rsquo;sLife so far</a></li>
+		<li><a href=#education>Education Makoto had</a></li>
+		<li><a href=#passion>Passion</a></li>
+		<li><a href=#dream>Dream</a> </li>
+		</ul>
+
+ <!—-Start of Sumamry Section—->
+
+	<h2 id=summary>Summary of Makoto&rsquo;s Life so far</h2>
+		<p> So What <i>is</i> Makoto? For sure, all of you have wondered about it. 		So here is the quick summary of his life so far!(Written in Summer of 			2015)</p>
+		
+		<!—-Figure out a way to do a time line!!—->
+ <!—-End of summary section —->
+
+ <!—-Start of education section—->
+
+	<h2 id=education>Education Makoto had</h2>
+		<p> This section describes what kind of education Makoto had received in 		his life so far in attempt to explain how he became what he is in terms 		of education he had received.</p>
+
+		<ul>
+		<li>Enters small Elementary School in Osaka, Japan</li>
+		<li>Before graduating school, he moves to Illinois due to his parent&rsquo;s job</li>
+		<li>Spends the rest of his elementary school career in All-day Japanese 		Language School in Chicago</li>
+		<li>Enters local middle school</li>
+		<li>Before finishing middle school he moves again to Georgia</li>
+		<li>Finishes his middle school career in local public school in Marietta</li>
+		<li>Then enters public high school in Marietta</li>
+		<li>Again unable to finish high school there. Instead, he returned Japan to 		attend Private school in Kyoto</li>
+		<li>There he go through <abbr title=“International Baccalaureate Diploma 		Program”>IBDP</abbr> for two years</li>
+		<li>After graduating high school, he returns to United States and enter 		<i>Tufts University School of Arts and Science</i>
+		<br /><img src=file:///Users/Ababamak/Desktop/Self-learning%20HTML/Images/tufts.png alt=tufts logo width=130px height=50px /></li>
+		<li>He finishes undergraduate education in three years</li>
+		<li>Then he proceeds to <i>Tufts Cummings School of Veterinary Medicine</i> to study Veterinary Medicine and become a professional veterinarian in 		the States</li>
+		</ul>
+
+ <!—-End of education section—->
+
+ <!—-Start of Passion section—->
+
+	<h2 id=passion>Passion</h2>
+		<p>This section contains information about his passion. These things 		greatly affected how he views the world. Additionally, Makoto enjoys 			getting involved with these things in anyway possible. So feel free to 			contact him to talk about any of these things!<p>
+		
+	<h3>Miming</h3>
+		<p>One of his greatest passion since college is <em>miming</em>. Starting his freshman year at Tufts, Makoto joined the mime troupe on campus called HYPE Mimez, and he had been mesmerized by the possibility of silent performance art.<br /> Below You will see the mime skit Makoto had written and is currently most proud of - <i>Strong in the Rain</i>. 
+		<br /> 
+		<iframe width=560 height=315 src="https://www.youtube.com/embed/			EfHBTvbQWpk" frameborder="0" allowfullscreen></iframe>	
+		<br />
+		This skit portraits who Makoto really want to become - his ideals manifested in form of miming.</p>
+
+
+ <!—-End of passion Section—>
+
+ <!—-Start of dream section—->
+
+	<h2 id=dream>Dream</h2>
+		<p>Here is Dream Makoto has at the current moment. <br />Makoto is 			passionate about many things. And he thinks all of his experiences are 			valid in a way that he firmly believes that everything he experiences are 		leading up to one point in his life - <i>where his dream can be 			achieved</i>.<br /> <br />So what <i>is</i> His Dream? <br /> <br />Makoto 		dreams to combine all of his past experiences in the past to, in any way 		possible, contribute in creating a world people can be little bit more 			humble to each other and also to their surroundings. There are so many, 		countless number of obstacles in achieving this dream, but Makoto is 			positive that there is something he can do in creating such a world.</p>
+
+ <!—-End of dream section—->
+
+<!—-End of body—->
+
+	<ul class=contact>
+	<li class=link><a href=#top>Return to the Top</a></li>
+	<li class=link><a href=https://www.facebook.com/makoto.yamamoto.904 target=“_blank”>Facebook</a></li>
+	<li class=link><a href=https://www.linkedin.com/in/makotoyamamoto target=“_blank”>LinkedIn</a></li>
+	<li class=link><a href=mailto:ymak513@gmail.com>Email Makoto</a></li>
+	</ul>
+	</body>
+</html>
